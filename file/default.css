@@ -77,9 +77,10 @@ a {
 
 #message-box{
   position: absolute;
-  margin-top:550px;
-  font-size: 25px;
+  margin-top:450px;
+  font-size: 20px;
   font-family: monospace;
 
 
 }
+
